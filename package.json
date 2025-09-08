@@ -1,0 +1,19 @@
+{
+  "name": "caffe_padideh",
+  "version": "1.0.0",
+  "description": "this is a caffe menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hadi-xp/caffe_padideh.git"
+  },
+  "author": "hadixp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hadi-xp/caffe_padideh/issues"
+  },
+  "homepage": "https://github.com/Hadi-xp/caffe_padideh#readme"
+}
