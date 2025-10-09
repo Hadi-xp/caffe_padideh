@@ -1,0 +1,68 @@
+/* body styles */
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(./Assest/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;    
+}
+/* map */
+.map{
+    margin-top: 10px;
+}
+.map iframe{
+    border-radius: 10px;
+}
+/* font */
+*{
+    font-family: vazir;
+}
+/* logo styles */
+.logoHolder{
+    text-align: center;   
+}
+.logo{
+    width: 150px;
+}
+/* info styles */
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* info => button */
+.btnHolder{
+    margin-top: 10px;
+    text-align: center;
+}
+.btn{
+    padding: 6px 20px;
+    font-size: 11px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* info => contact */
+.contact{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+    color: #ffff;
+    margin-top: 15px;
+    border: 1px solid wheat;
+    border-radius: 10px;
+    padding: 7px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.row i{
+   color: #D9D9D9; 
+   font-size: 17px;
+}
+.row .textInfo{
+    width: 8rem;
+}
