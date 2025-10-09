@@ -9,10 +9,10 @@ body{
 }
 /* map */
 .map{
-    margin-top: 10px;
+    margin-top: 30px;
 }
 .map iframe{
-    border-radius: 10px;
+    border-radius: 20px;
 }
 /* font */
 *{
@@ -20,10 +20,11 @@ body{
 }
 /* logo styles */
 .logoHolder{
+    margin-top: 30px;
     text-align: center;   
 }
 .logo{
-    width: 150px;
+    width: 250px;
 }
 /* info styles */
 .info{
@@ -37,23 +38,30 @@ body{
     text-align: center;
 }
 .btn{
-    padding: 6px 20px;
-    font-size: 11px;
+    padding: 12px 30px;
+    font-size: 15px;
     font-weight: 500;
+    color: #3E3E3E;
     border-radius: 10px;
     border: none;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 /* info => contact */
+.info{
+    margin-top: 8rem;
+}
 .contact{
     text-align: center;
-    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-size: 15px;
     font-weight: 500;
     color: #ffff;
     margin-top: 15px;
-    border: 1px solid wheat;
+    border: 2px solid #ffff;
     border-radius: 10px;
-    padding: 7px;
+    padding: 16px 24px;
 }
 .row{
     display: flex;
@@ -61,18 +69,20 @@ body{
 }
 .row i{
    color: #D9D9D9; 
-   font-size: 15px;
+   font-size: 20px;
 }
 .row .textInfo{
-    width: 5rem;
+    width: 7rem;
 }
 /* copy right */
 .copyRight{
+    margin-top: 25px;
     text-align: center;
     color: #ffff;
-    font-size: 6px;
+    font-size: 10px;
     font-weight: 100;
 }
 .copyLogo{
-    width: 30px;
+    width: 60px;
+    height: 50px;
 }
