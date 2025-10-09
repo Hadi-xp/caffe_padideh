@@ -47,7 +47,7 @@ body{
 /* info => contact */
 .contact{
     text-align: center;
-    font-size: 12px;
+    font-size: 10px;
     font-weight: 500;
     color: #ffff;
     margin-top: 15px;
@@ -61,8 +61,18 @@ body{
 }
 .row i{
    color: #D9D9D9; 
-   font-size: 17px;
+   font-size: 15px;
 }
 .row .textInfo{
-    width: 8rem;
+    width: 5rem;
+}
+/* copy right */
+.copyRight{
+    text-align: center;
+    color: #ffff;
+    font-size: 6px;
+    font-weight: 100;
+}
+.copyLogo{
+    width: 30px;
 }
