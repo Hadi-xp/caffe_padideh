@@ -1,5 +1,5 @@
 // btn change page 
 const btn = document.querySelector('.btn');
-btn.addEventListener('click',()=>{
+btn.addEventListener('touchstart',()=>{
     window.location.href = 'Menu/menu.html';
 });
