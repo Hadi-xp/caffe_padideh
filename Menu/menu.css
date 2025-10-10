@@ -52,8 +52,30 @@ html,body{
     color: rgb(92, 90, 90);
 }
 /* swiper styles */
-.swiper{
-    margin-top: 7rem;
+.slider{
+    margin-top: 5rem;
+    overflow-x: auto;
+}
+.slider::-webkit-scrollbar{
+    display: none;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.slide{
     width: 100%;
-    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    width: 70px;
+    height: 70px;
+    background-image: url(../Assest/pizza.png);
+    background-repeat: no-repeat;
+    border-radius: 300px;
+    background-position: center;
 }
