@@ -55,16 +55,21 @@ html,body{
 .slider{
     margin-top: 5rem;
     overflow-x: auto;
+    width: 100%;
 }
 .slider::-webkit-scrollbar{
     display: none;
 }
 .wrapper{
-    width: 100%;
+    overflow-x: auto;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
-    gap: 1.5rem;
+    gap: 2.5rem;
+    scroll-snap-type: x mandatory;
+}
+.wrapper::-webkit-scrollbar{
+    display: none;
 }
 .slide{
     width: 5rem;
@@ -78,8 +83,55 @@ html,body{
 .img{
     width: 70px;
     height: 70px;
-    background-image: url(../Assest/pizza.png);
     background-repeat: no-repeat;
     border-radius: 300px;
     background-position: center;
+    background-size: contain;
+}
+/* image for each type */
+.italianPizza{
+    background-image: url(../Assest/pizza.png);
+    background-size: cover;
+}
+.americanPizza{
+    background-image: url(../Assest/پیتزا\ آمریکایی.jpg);
+}
+.icecream{
+    background-image: url(../Assest/بستنی.jpg);
+}
+.burger{
+    background-image: url(../Assest/برگر.jpg);
+}
+.icePack{
+    background-image: url(../Assest/آیس\ پک.jpg);
+}
+.juce{
+    background-image: url(../Assest/آبمیوه\ طبیعی.jpg);
+}
+.hotDog{
+    background-image: url(../Assest/هات\ داگ.jpg);
+}
+.hotDrink{
+    background-image: url(../Assest/نوشیدنی\ گرم.jpg);
+}
+.coldDrink{
+    background-image: url(../Assest/نوشیدنی\ سرد.jpg);
+}
+.iceCoffe{
+    background-image: url(../Assest/نوشیدنی\ سرد\ کافیین\ دار.jpg);
+}
+.milkShake{
+    background-image: url(../Assest/میلک\ شیک.jpg);
+}
+.creespy{
+    background-image: url(../Assest/سوخاری.jpg);
+}
+.tea{
+    background-image: url(../Assest/دمنوش.jpg);
+}
+.dessert{
+    background-image: url(../Assest/دسر.jpg);
+}
+.apetizer{
+    background-image: url(../Assest/پیش\ غذا.jpg);
 }
