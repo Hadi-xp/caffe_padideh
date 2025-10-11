@@ -3,9 +3,18 @@ body{
     margin: 0;
     padding: 0;
     background-color: #D99F33;
+    /* background-image: url(../Assest/patern.png); */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;    
+}
+body::before{
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: url('../Assest/patern.png');
+    opacity: 0.2;
+    z-index: -1;
 }
 html,body{
     touch-action: manipulation;
