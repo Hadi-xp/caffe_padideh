@@ -202,13 +202,7 @@ html,body{
     font-weight: 100;
     padding-top: 0.6rem;
     padding-right: 5rem;
-}
-.bottomText{
-    font-weight: 100;
     text-align: left;
-    padding-left: 2rem;
-    padding-bottom: 2rem;
-    font-size: 12px;
 }
 .pricing{
     text-align: center;
