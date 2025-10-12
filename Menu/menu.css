@@ -87,6 +87,7 @@ html,body{
     color: #ffff;
     font-size: 12px;
     white-space: nowrap;
+    gap: 5px;
 }
 .img{
     width: 70px;
@@ -143,3 +144,106 @@ html,body{
 .apetizer{
     background-image: url(../Assest/پیش\ غذا.jpg);
 }
+/* food card */
+.burgerBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.foodContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+}
+.foodCard{
+    background-color: #D9D9D9;
+    border-radius: 30px;
+    width: 85%;
+    display: flex;
+    height: 70px;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    transition: all 0.3s ease-in-out;
+}
+.foodIcon{
+    background-image: url(../Assest/برگر.jpg);
+    width: 70px;
+    height: 70px;
+    background-size: contain;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+}
+.topPart{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 20px;
+    align-items: center;
+
+}
+.topText{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    margin-right: 10px;
+}
+.foodName{
+    font-weight: bold;
+}
+.foodInfo{
+    font-size: 12px;
+    font-weight: 100;
+}
+.foodInfoEng{
+    font-size: 12px;
+    font-weight: 100;
+    padding-top: 0.6rem;
+    padding-right: 5rem;
+}
+.bottomText{
+    font-weight: 100;
+    text-align: left;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    font-size: 12px;
+}
+.pricing{
+    text-align: center;
+    font-weight: bold;
+}
+/* foodCard display content none  */
+.foodCard .foodInfoEng{
+    display: none;
+}
+.foodCard .foodInfo{
+    display: none;
+}
+.foodCard .pricing{
+    text-align: left;
+}
+.foodCard .topPart{
+    padding: 0;
+}
+.foodCard:focus{
+    flex-direction: column;
+    height: 200px;
+}
+.foodCard:focus .foodInfoEng{
+    display: block;
+}
+.foodCard:focus .foodInfo{
+    display: block;
+}
+.foodCard:focus .pricing{
+    text-align: center;
+}
+.foodCard:focus .topPart{
+    padding: 20px;
+}
+/* food card open and close transizion */
+
+
+
