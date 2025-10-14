@@ -149,6 +149,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
+    display: none;
 }
 .foodContainer{
     display: flex;
@@ -166,7 +167,7 @@ html,body{
     flex-direction: row-reverse;
     justify-content: center;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     transition: all 0.3s ease-in-out;
 }
 .foodIcon{
@@ -176,6 +177,8 @@ html,body{
     background-size: contain;
     border-radius: 50%;
     background-repeat: no-repeat;
+    flex-shrink: 0;
+    
 }
 .topPart{
     display: flex;
@@ -205,6 +208,7 @@ html,body{
     text-align: left;
 }
 .pricing{
+    margin-left: 1rem;
     text-align: center;
     font-weight: bold;
 }
@@ -238,6 +242,16 @@ html,body{
     padding: 20px;
 }
 /* food card open and close transizion */
-
+.foodContainer{
+    overflow-y: auto;
+    max-height: 25rem;
+    scrollbar-width: none;
+}
+/* pasta box */
+.pastaBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
 
 
