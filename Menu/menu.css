@@ -252,7 +252,17 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    display: none;
+    /* display: none; */
+}
+.pasta-chicken-alfredo{
+    background-image: url(../Assest/foods/پاستا\ چیکن\ الفردو.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.pasta-peneh{
+    background-image: url(../Assest/foods/پاستا\ پنه.jpg);
+    background-size: cover;
+    background-position: center;
 }
 /* pish qhaza */
 .pishQhaza{
