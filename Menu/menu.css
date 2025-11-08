@@ -152,7 +152,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    display: none;
+    /* display: none; */
 }
 .foodContainer{
     display: flex;
@@ -230,7 +230,7 @@ html,body{
 }
 .foodCard:focus{
     flex-direction: column;
-    height: 200px;
+    height: 220px;
 }
 .foodCard:focus .foodInfoEng{
     display: block;
@@ -255,7 +255,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 .pasta-chicken-alfredo{
     background-image: url(../Assest/foods/پاستا\ چیکن\ الفردو.jpg);
@@ -282,6 +282,44 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
+    display: none;
 }
+.french-fries{
+    background-image: url(../Assest/foods/فرایز.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.homeMade-french-fries{
+    background-image: url(../Assest/foods/سیب\ زمینی\ تنوری\ دست\ ساز\ با\ ادویه\ مخصوص.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.chips-and-cheese{
+    background-image: url(../Assest/foods/چیپس\ و\ پنیر\ مخصوص.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.sezar-salad{
+    background-image: url(../Assest/foods/سالاد\ سزار\ سوخاری.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.garlic-bread{
+    background-image: url(../Assest/foods/نان\ سیر.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+/* burder food */
+.cheese-burger{
+    background-image: url(../Assest/foods/چیز\ برگر.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.special-burger{
+    background-image: url(../Assest/foods/همبرگر\ مخصوص.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 
 
