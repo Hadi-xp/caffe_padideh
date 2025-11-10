@@ -325,6 +325,11 @@ html,body{
     background-size: cover;
     background-position: center;
 }
+.smoky-burger{
+    background-image: url(../Assest/foods/همبرگر\ تنوری.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
 
 /* piza */
 .pizzaBox{
@@ -333,6 +338,47 @@ html,body{
     margin-top: 2rem;
     /* display: none; */
 }
+.cheff-pizza{
+    background-image: url(../Assest/foods/پیتزا\ سراشپز\ ایتالیایی.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.special-pizza{
+    background-image: url(../Assest/foods/پیتزا\ مخصوص\ ایتالیایی.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.roast-beef-pizza{
+    background-image: url(../Assest/foods/پیتزا\ رست\ بیف\ ایتالیایی.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.beef-mushroom{
+    background-image: url(../Assest/foods/پیتزا\ قارچ\ و\ گوشت\ امریکایی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.chicken-mushroom{
+    background-image: url(../Assest/foods/پیتزا\ قارچ\ و\ مرغ\ ایتالیایی.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.special2-pizza{
+    background-image: url(../Assest/foods/پیتزا\ اسپشیال.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.vegi-pizza{
+    background-image: url(../Assest/foods/پیتزا\ سبزیجات\ تک\ نفره.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.alfredo-pizza{
+    background-image: url(../Assest/foods/پیتزا\ الفردو\ ایتالیایی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 
 
 
