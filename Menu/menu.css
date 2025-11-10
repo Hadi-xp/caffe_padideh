@@ -152,7 +152,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 .foodContainer{
     display: flex;
@@ -324,6 +324,14 @@ html,body{
     background-image: url(../Assest/foods/ماشروم\ برگر.jpg);
     background-size: cover;
     background-position: center;
+}
+
+/* piza */
+.pizzaBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    /* display: none; */
 }
 
 
