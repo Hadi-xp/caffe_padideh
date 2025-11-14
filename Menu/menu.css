@@ -393,7 +393,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 .ice-coffee{
     background-image: url(../Assest/foods/آیس\ کافی.jpg);
