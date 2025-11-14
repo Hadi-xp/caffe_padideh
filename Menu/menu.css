@@ -395,6 +395,41 @@ html,body{
     margin-top: 2rem;
     /* display: none; */
 }
+.ice-coffee{
+    background-image: url(../Assest/foods/آیس\ کافی.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.ice-latte{
+    background-image: url(../Assest/foods/آیس\ لاته.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.ice-mocha{
+    background-image: url(../Assest/foods/موکا);
+    background-size: cover;
+    background-position: bottom;
+}
+.ice-chocolate{
+    background-image: url(../Assest/foods/آیس\ شکلات.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.dalgonah-coffee{
+    background-image: url(../Assest/foods/دالگناه\ کافی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.cappuccino{
+    background-image: url(../Assest/foods/کاپوچینو.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.afogato{
+    background-image: url(../Assest/foods/آفوگاتو.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
 
 
 
