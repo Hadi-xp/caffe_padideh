@@ -309,6 +309,11 @@ html,body{
     background-size: cover;
     background-position: bottom;
 }
+.french-fries-mushroom-sauce{
+    background-image: url(../Assest/foods/سیب\ زمینی\ با\ سس\ قارچ.jpg);
+    background-size: cover;
+    background-position: center;
+}
 /* burder food */
 .cheese-burger{
     background-image: url(../Assest/foods/چیز\ برگر.jpg);
