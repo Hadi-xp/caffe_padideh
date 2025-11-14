@@ -341,7 +341,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 .cheff-pizza{
     background-image: url(../Assest/foods/پیتزا\ سراشپز\ ایتالیایی.jpg);
@@ -382,6 +382,18 @@ html,body{
     background-image: url(../Assest/foods/پیتزا\ الفردو\ ایتالیایی.jpg);
     background-size: cover;
     background-position: center;
+}
+.pizza-mix{
+    background-image: url(../Assest/foods/پیتزا\ میکس.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+/* cold-coffee-box */
+.cold-coffee-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    /* display: none; */
 }
 
 
