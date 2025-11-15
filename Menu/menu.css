@@ -437,6 +437,12 @@ html,body{
     margin-top: 2rem;
     /* display: none; */
 }
+.chickenWich{
+    background-image: url(../Assest/foods/چیکن\ ویچ.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 
 
 
