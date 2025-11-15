@@ -430,6 +430,14 @@ html,body{
     background-size: cover;
     background-position: bottom;
 }
+/* sandwich */
+.sandwich-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    /* display: none; */
+}
+
 
 
 
