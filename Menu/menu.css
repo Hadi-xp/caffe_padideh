@@ -442,6 +442,11 @@ html,body{
     background-size: cover;
     background-position: center;
 }
+.hotDog-tanouri{
+    background-image: url(../Assest/foods/هات\ داگ\ تنوری.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
 
 
 
