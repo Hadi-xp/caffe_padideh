@@ -440,7 +440,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 .chickenWich{
     background-image: url(../Assest/foods/چیکن\ ویچ.jpg);
@@ -477,6 +477,24 @@ html,body{
     background-size: cover;
     background-position: bottom;
 }
+/* ice cream */
+.iceCream-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    display: none;
+}
+.jelly-iceCream-fruit{
+    background-image: url(../Assest/foods/ژله\ بستنی\ با\ میوه.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.fruit-cocktail-iceCream{
+    background-image: url(../Assest/foods/کوکتل\ میوه\ با\ بستنی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 
 
 
