@@ -314,7 +314,7 @@ html,body{
     background-size: cover;
     background-position: center;
 }
-/* burder food */
+/* burger food */
 .cheese-burger{
     background-image: url(../Assest/foods/چیز\ برگر.jpg);
     background-size: cover;
@@ -332,6 +332,11 @@ html,body{
 }
 .smoky-burger{
     background-image: url(../Assest/foods/همبرگر\ تنوری.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.chicken-burger{
+    background-image: url(../Assest/foods/چیکن\ برگر.jpg);
     background-size: cover;
     background-position: bottom;
 }
@@ -416,7 +421,7 @@ html,body{
     background-position: center;
 }
 .dalgonah-coffee{
-    background-image: url(../Assest/foods/دالگناه\ کافی.jpg);
+    background-image: url(../Assest/foods/دالگونا\ کافی.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -435,7 +440,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    display: none;
+    /* display: none; */
 }
 .chickenWich{
     background-image: url(../Assest/foods/چیکن\ ویچ.jpg);
@@ -444,6 +449,31 @@ html,body{
 }
 .hotDog-tanouri{
     background-image: url(../Assest/foods/هات\ داگ\ تنوری.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.chickenAndMushroom-wich{
+    background-image: url(../Assest/foods/چیکن\ ویچ.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.mexican-hotDog{
+    background-image: url(../Assest/foods/هات\ داگ\ تنوری.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.shekari{
+    background-image: url(../Assest/foods/ساندویچ\ شکاری.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.roasted-hotDog{
+    background-image: url(../Assest/foods/هات\ داگ\ رست\ بیف.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.mix-hotDog{
+    background-image: url(../Assest/foods/هات\ داگ\ میکس.jpg);
     background-size: cover;
     background-position: bottom;
 }
