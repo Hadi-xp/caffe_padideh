@@ -147,6 +147,12 @@ html,body{
 .pasta{
     background-image: url(../Assest/pastaLogo.jpg);
 }
+.gelasse{
+    background-image: url(../Assest/گلاسه.png);
+}
+.mocktel{
+    background-image: url(../Assest/موکتل.png);
+}
 /* food card */
 .burgerBox{
     display: flex;
