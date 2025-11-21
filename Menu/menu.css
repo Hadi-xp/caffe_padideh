@@ -98,8 +98,8 @@ html,body{
     background-size: contain;
 }
 /* image for each type */
-.italianPizza{
-    background-image: url(../Assest/pizza.png);
+.sandwichIcon{
+    background-image: url(../Assest/ساندویچ.png);
     background-size: cover;
 }
 .americanPizza{
