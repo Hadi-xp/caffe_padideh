@@ -494,6 +494,13 @@ html,body{
     background-size: cover;
     background-position: center;
 }
+/* hot dog */
+.hotDog-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    display: none;
+}
 
 
 
