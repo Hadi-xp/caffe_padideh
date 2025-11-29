@@ -513,6 +513,42 @@ html,body{
     margin-top: 2rem;
     /* display: none; */
 }
+.limonade{
+    background-image: url(../Assest/foods/لیموناد\ طبیعی.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.mohito{
+    background-image: url(../Assest/foods/موهیتو.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.margarita
+{
+    background-image: url(../Assest/foods/مارگاریتا.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.hawaei{
+    background-image: url(../Assest/foods/هاوایی.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.blue-kar-sao{
+    background-image: url(../Assest/foods/موکتل\ بلوکارسائو.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.sherly-temple{
+    background-image: url(../Assest/foods/موکتل\ شرلی\ تمپل.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.pinacolada{
+    background-image: url(../Assest/foods/موکتل\ پیناکولادا.jpg);
+    background-size: cover;
+    background-position: top;
+}
 
 
 
