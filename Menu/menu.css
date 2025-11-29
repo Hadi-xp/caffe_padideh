@@ -511,7 +511,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 .limonade{
     background-image: url(../Assest/foods/لیموناد\ طبیعی.jpg);
@@ -548,6 +548,13 @@ html,body{
     background-image: url(../Assest/foods/موکتل\ پیناکولادا.jpg);
     background-size: cover;
     background-position: top;
+}
+/* glasse */
+.galsse-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    /* display: none; */
 }
 
 
