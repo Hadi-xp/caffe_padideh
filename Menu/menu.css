@@ -557,8 +557,16 @@ html,body{
     display: none;
 }
 
-/* mahoon */
+/* majoon */
 .majoon-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    display: none;
+}
+
+/* ice-pack */
+.icePack-box{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
