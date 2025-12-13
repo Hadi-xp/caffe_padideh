@@ -570,7 +570,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 .strawberry-pack{
     background-image: url(../Assest/foods/آیس\ پک\ توت\ فرنگی.jpg);
