@@ -156,6 +156,9 @@ html,body{
 .mocktel{
     background-image: url(../Assest/موکتل.png);
 }
+.majoon{
+    background-image: url(../Assest/4معجون.jpg);
+}
 /* food card */
 .burgerBox{
     display: flex;
