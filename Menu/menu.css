@@ -593,14 +593,73 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
+    display: none;
+}
+.single-espresso{
+    background-image: url(../Assest/foods/اسپرسو\ تک.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.double-espresso{
+    background-image: url(../Assest/foods/اسپرسو\ تک.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.latte{
+    background-image: url(../Assest/foods/کافه\ لاته.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.cappuccinoHot{
+    background-image: url(../Assest/foods/کاپوچینو.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.mocka{
+    background-image: url(../Assest/foods/قهوه\ موکا.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.tork{
+    background-image: url(../Assest/foods/قهوه\ ترک.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+/* fresh juice */
+.fresh-juice-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
     /* display: none; */
 }
-
-
-
-
-
-
-
-
+.mango-juice{
+    background-image: url(../Assest/foods/آب\ انبه.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.orange-juice{
+    background-image: url(../Assest/foods/اب\ پرتقال\ طبیعی.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.pamegeranet-juice{
+    background-image: url(../Assest/foods/آب\ انار\ طبیعی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.carrot-juice{
+    background-image: url(../Assest/foods/آب\ هویج.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.pineapple-juice{
+    background-image: url(../Assest/foods/آب\ آناناس.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.cherry-juice{
+    background-image: url(../Assest/foods/آب\ آلبالو.jpg);
+    background-size: cover;
+    background-position: center;
+}
 
