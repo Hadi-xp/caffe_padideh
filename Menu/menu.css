@@ -588,6 +588,13 @@ html,body{
     background-size: cover;
     background-position: center;
 }
+/* hot-coffee-box */
+.hot-coffee-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    /* display: none; */
+}
 
 
 
