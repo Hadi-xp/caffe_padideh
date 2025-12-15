@@ -630,7 +630,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 .mango-juice{
     background-image: url(../Assest/foods/آب\ انبه.jpg);
@@ -662,4 +662,9 @@ html,body{
     background-size: cover;
     background-position: center;
 }
-
+.sookhari-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    /* display: none; */
+}
