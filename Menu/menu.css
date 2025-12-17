@@ -668,3 +668,13 @@ html,body{
     margin-top: 2rem;
     /* display: none; */
 }
+.fried-mushroom{
+    background-image: url(../Assest/foods/قارچ\ سوخاری.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.three-fried-chicken{
+    background-image: url(../Assest/foods/مرغ\ سوخاری\ ۳\ تیکه.jpg);
+    background-size: cover;
+    background-position: center;
+}
