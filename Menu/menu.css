@@ -666,7 +666,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 .fried-mushroom{
     background-image: url(../Assest/foods/قارچ\ سوخاری.jpg);
@@ -678,12 +678,17 @@ html,body{
     background-size: cover;
     background-position: center;
 }
+.sini-sookhari{
+    background-image: url(../Assest/foods/سینی\ سوخاری.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
 /* damnoosh */
 .damnoosh-box{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    display: none;
+    /* display: none; */
 }
 
 
