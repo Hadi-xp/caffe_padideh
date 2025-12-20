@@ -666,7 +666,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    display: none;
+    /* display: none; */
 }
 .fried-mushroom{
     background-image: url(../Assest/foods/قارچ\ سوخاری.jpg);
@@ -683,7 +683,7 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
 
 
