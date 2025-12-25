@@ -423,7 +423,7 @@ html,body{
     background-position: bottom;
 }
 .ice-mocha{
-    background-image: url(../Assest/foods/موکا);
+    background-image: url(../Assest/foods/آیس\ موکا.jpg);
     background-size: cover;
     background-position: bottom;
 }
@@ -531,7 +531,7 @@ html,body{
 }
 .margarita
 {
-    background-image: url(../Assest/foods/مارگاریتا.jpg);
+    background-image: url(../Assest/foods/مارگاریتا.jfif);
     background-size: cover;
     background-position: bottom;
 }
@@ -696,8 +696,64 @@ html,body{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    /* display: none; */
+    display: none;
 }
+.lotusShake{
+    background-image: url(../Assest/foods/شیک\ لوتوس.jfif);
+    background-size: cover;
+    background-position: center;
+}
+.notelaShake{
+    background-image: url(../Assest/foods/شیک\ نوتلا.jpg);
+    background-size: cover;
+    background-position: top;
+}
+.badamZaminiShake{
+    background-image: url(../Assest/foods/شیک\ بادام\ زمینی.webp);
+    background-size: cover;
+    background-position: center;
+}
+.chocolateShake{
+    background-image: url(../Assest/foods/شیک\ شکلات.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.mangoShake{
+    background-image: url(../Assest/foods/شیک\ انبه_آیس\ پک\ انبه.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.strawberyShake{
+    background-image: url(../Assest/foods/شیک\ توت\ فرنگی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.bananaShake{
+    background-image: url(../Assest/foods/شیک\ موز_ایس\ موز.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.mockaShake{
+    background-image: url(../Assest/foods/شیک\ موکا_موکا\ گلاسه.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.pesteShake{
+    background-image: url(../Assest/foods/شیک\ پسته.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 

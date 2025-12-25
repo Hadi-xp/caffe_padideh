@@ -33,7 +33,7 @@ pastaIcon.addEventListener("click",()=>{
 // glasse
 const glasseIcon = document.querySelector('.gelasse');
 const glasseBox = document.querySelector('.galsse-box');
-glasseBox.addEventListener("click",()=>{
+glasseIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -43,7 +43,7 @@ glasseBox.addEventListener("click",()=>{
 // majoon
 const majoonIcon = document.querySelector('.majoon');
 const majoonBox = document.querySelector('.majoon-box');
-majoonBox.addEventListener("click",()=>{
+majoonIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -53,7 +53,7 @@ majoonBox.addEventListener("click",()=>{
 // icecream
 const icecreamIcon = document.querySelector('.icecream');
 const icecreamBox = document.querySelector('.iceCream-box');
-icecreamBox.addEventListener("click",()=>{
+icecreamIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -63,7 +63,7 @@ icecreamBox.addEventListener("click",()=>{
 // burger
 const burgerIcon = document.querySelector('.burger');
 const burgerBox = document.querySelector('.burgerBox');
-burgerBox.addEventListener("click",()=>{
+burgerIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -73,7 +73,7 @@ burgerBox.addEventListener("click",()=>{
 // icepack
 const icepackIcon = document.querySelector('.icePack');
 const icepackBox = document.querySelector('.icePack-box');
-icepackBox.addEventListener("click",()=>{
+icepackIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -83,7 +83,7 @@ icepackBox.addEventListener("click",()=>{
 // mocktel
 const mocktelIcon = document.querySelector('.mocktel');
 const mocktelBox = document.querySelector('.mocktail-box');
-mocktelBox.addEventListener("click",()=>{
+mocktelIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -91,9 +91,9 @@ mocktelBox.addEventListener("click",()=>{
     previusBox = mocktelBox;
 })
 // juic
-const juicBox = document.querySelector('.juce');
-const juicIcon = document.querySelector('.fresh-juice-box');
-juicBox.addEventListener("click",()=>{
+const juicIcon = document.querySelector('.juce');
+const juicBox = document.querySelector('.fresh-juice-box');
+juicIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -103,7 +103,7 @@ juicBox.addEventListener("click",()=>{
 // hotdog
 const hotdogIcon = document.querySelector('.hotDog');
 const hotdogBox = document.querySelector('.hotDog-box');
-hotdogBox.addEventListener("click",()=>{
+hotdogIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -113,7 +113,7 @@ hotdogBox.addEventListener("click",()=>{
 // hotDrink
 const hotDrinkIcon = document.querySelector('.hotDrink');
 const hotDrinkBox = document.querySelector('.hot-coffee-box');
-hotDrinkBox.addEventListener("click",()=>{
+hotDrinkIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -123,7 +123,7 @@ hotDrinkBox.addEventListener("click",()=>{
 // coldDrink
 const coldDrinkIcon = document.querySelector('.iceCoffe');
 const coldDrinkBox = document.querySelector('.cold-coffee-box');
-coldDrinkBox.addEventListener("click",()=>{
+coldDrinkIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
@@ -133,7 +133,7 @@ coldDrinkBox.addEventListener("click",()=>{
 // milkshake
 const milkshakeIcon = document.querySelector('.milkShake');
 const milkshakeBox = document.querySelector('.milkshake-box');
-milkshakeBox.addEventListener("click",()=>{
+milkshakeIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
     }
