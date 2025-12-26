@@ -405,6 +405,11 @@ html,body{
     background-size: cover;
     background-position: bottom;
 }
+.mexicanPizza{
+    background-image: url(../Assest/پیتزا\ آمریکایی.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
 /* cold-coffee-box */
 .cold-coffee-box{
     display: flex;
@@ -561,6 +566,16 @@ html,body{
     justify-content: center;
     margin-top: 2rem;
     display: none;
+}
+.havij-bastani{
+    background-image: url(../Assest/foods/هویج\ بستنی.jfif);
+    background-size: cover;
+    background-position: center;
+}
+.pineapple-glasse{
+    background-image: url(../Assest/foods/آناناس\ گلاسه.jpg);
+    background-size: cover;
+    background-position: top;
 }
 
 /* majoon */
@@ -743,7 +758,7 @@ html,body{
     background-size: cover;
     background-position: center;
 }
-
+ 
 
 
 
