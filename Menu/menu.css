@@ -577,6 +577,26 @@ html,body{
     background-size: cover;
     background-position: top;
 }
+.mango-glasse{
+    background-image: url(../Assest/foods/انبه\ گلاسه.jfif);
+    background-size: cover;
+    background-position: center;
+}
+.pamegeranet-glasse{
+    background-image: url(../Assest/foods/انار\ گلاسه-min.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.caffe-glasse{
+    background-image: url(../Assest/foods/کافه\ گلاسه.jpg);
+    background-size: cover;
+    background-position: top;
+}
+.chocolate-glasse{
+    background-image: url(../Assest/foods/شکلات\ گلاسه.jfif);
+    background-size: cover;
+    background-position: center;
+}
 
 /* majoon */
 .majoon-box{
