@@ -605,7 +605,36 @@ html,body{
     margin-top: 2rem;
     display: none;
 }
-
+.shirmoz{
+    background-image: url(../Assest/foods/شبر-موز.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.vitamine{
+    background-image: url(../Assest/4معجون.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.shirmoz-anbe{
+    background-image: url(../Assest/4معجون.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.shirmoz-chocolat{
+    background-image: url(../Assest/4معجون.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.shirmoz-peste{
+    background-image: url(../Assest/4معجون.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.shirmiz-iceCream{
+    background-image: url(../Assest/4معجون.jpg);
+    background-size: cover;
+    background-position: center;
+}
 /* ice-pack */
 .icePack-box{
     display: flex;
