@@ -140,4 +140,35 @@ milkshakeIcon.addEventListener("click",()=>{
     milkshakeBox.style.display = "block";
     previusBox = milkshakeBox;
 })
+// sookhari
+const sookhariIcon = document.querySelector('.creespy');
+const sookhariBox = document.querySelector('.sookhari-box');
+sookhariIcon.addEventListener("click",()=>{
+    if(previusBox){
+        previusBox.style.display = "none";
+    }
+    sookhariBox.style.display = "block";
+    previusBox = sookhariBox;
+})
+// damnoosh
+const damnooshIcon = document.querySelector('.tea');
+const damnooshBox = document.querySelector('.damnoosh-box');
+damnooshIcon.addEventListener("click",()=>{
+    if(previusBox){
+        previusBox.style.display = "none";
+    }
+    damnooshBox.style.display = "block";
+    previusBox = damnooshBox;
+})
+// desser
+const desserIcon = document.querySelector('.dessert');
+const desserBox = document.querySelector('.dessert-box');
+desserIcon.addEventListener("click",()=>{
+    if(previusBox){
+        previusBox.style.display = "none";
+    }
+    desserBox.style.display = "block";
+    previusBox = desserBox;
+})
+
 

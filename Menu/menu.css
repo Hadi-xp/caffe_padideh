@@ -501,6 +501,12 @@ html,body{
     margin-top: 2rem;
     display: none;
 }
+.sunShine{
+    background-image: url(../Assest/بستنی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 .jelly-iceCream-fruit{
     background-image: url(../Assest/foods/ژله\ بستنی\ با\ میوه.jpg);
     background-size: cover;
@@ -508,6 +514,31 @@ html,body{
 }
 .fruit-cocktail-iceCream{
     background-image: url(../Assest/foods/کوکتل\ میوه\ با\ بستنی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.italian-iceCream{
+    background-image: url(../Assest/بستنی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.strawberry-cop{
+    background-image: url(../Assest/بستنی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.vanilla-cop{
+    background-image: url(../Assest/بستنی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.nescafe-cop{
+    background-image: url(../Assest/بستنی.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.mango-cop{
+    background-image: url(../Assest/بستنی.jpg);
     background-size: cover;
     background-position: center;
 }
