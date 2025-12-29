@@ -162,7 +162,7 @@ damnooshIcon.addEventListener("click",()=>{
 })
 // desser
 const desserIcon = document.querySelector('.dessert');
-const desserBox = document.querySelector('.dessert-box');
+const desserBox = document.querySelector('.desert-box');
 desserIcon.addEventListener("click",()=>{
     if(previusBox){
         previusBox.style.display = "none";
@@ -170,5 +170,14 @@ desserIcon.addEventListener("click",()=>{
     desserBox.style.display = "block";
     previusBox = desserBox;
 })
-
+// pishqhaza
+const pishqhazaIcon = document.querySelector('.apetizer');
+const pishqhazaBox = document.querySelector('.pishQhaza');
+pishqhazaIcon.addEventListener("click",()=>{
+    if(previusBox){
+        previusBox.style.display = "none";
+    }
+    pishqhazaBox.style.display = "block";
+    previusBox = pishqhazaBox;
+})
 

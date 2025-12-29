@@ -838,9 +838,38 @@ html,body{
     background-size: cover;
     background-position: center;
 }
- 
-
-
+/* desert */
+.desert-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    display: none;
+}
+.tiramisu{
+    background-image: url(../Assest/دسر.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.cake-iceCream{
+    background-image: url(../Assest/دسر.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.nutelaCale{
+    background-image: url(../Assest/دسر.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.fruitSalad{
+    background-image: url(../Assest/دسر.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.jelly{
+    background-image: url(../Assest/دسر.jpg);
+    background-size: cover;
+    background-position: center;
+}
 
 
 
